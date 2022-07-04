@@ -5,5 +5,5 @@ Simple CRUD with postgresql and nodejs
 
 clone this repository
 
-  git clone https://github.com/kinha08/crud-postgresql-nodejs.git
+    git clone https://github.com/kinha08/crud-postgresql-nodejs.git
   
