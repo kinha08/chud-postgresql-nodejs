@@ -10,7 +10,15 @@ Simple CRUD with postgresql and nodejs
 2. Install packages
 
         npm install
+        
+3. Create a **.env** file white this informations
+
+        PGHOST=your-host
+        PGUSER=your-database-user
+        PGDATABASE=your-database-name
+        PGPASSWORD=your-database-password
+        PGPORT=database-port
   
-3. Start server
+4. Start server
 
         npm run start
